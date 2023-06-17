@@ -1,4 +1,5 @@
 #VARIABLES PROJECT
+
 ##Practice project for FreeCodeCamp Responsive Web Design Certification
 
 The goal was to create city skyline with use of CSS variables and adjustment of dimensions and positioning.
